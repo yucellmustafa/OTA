@@ -3,7 +3,6 @@ Device: Xiaomi Mi Note 10 Lite (toco)
 Device maintainer: yucellmustafa
 
 ======== 21 February 2024 ========
-* Update February 2024 security patch
 * change Kernel (4.14.328-perf)
 * fix fingerprint when screen is off
 
