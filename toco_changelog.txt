@@ -3,6 +3,6 @@ Build type: RELEASE
 Device: Xiaomi Mi Note 10 Lite (toco)
 Device maintainer: yucellmustafa
 
-======== 25 February 2024 ========
+======== 01 March 2024 ========
 * Initial Release for Android 14
-* With most features from Rising 2.x
+* With most features from Alpha 2.x
