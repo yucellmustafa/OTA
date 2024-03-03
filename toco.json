@@ -1,28 +1,15 @@
 {
-	"response": [
-		{
-			"maintainer": "yucellmustafa",
-			"oem": "Xiaomi",
-			"device": "Mi Note 10 Lite",
-			"filename": "AlphaDroid-14.0-20240301-toco-vanilla-v2.0.zip",
-			"download": "https://sourceforge.net/projects/yucellmustafa-builds/files/toco/alpha_2.x/AlphaDroid-14.0-20240301-toco-vanilla-v2.0.zip/download",
-			"timestamp": 1709316975,
-			"md5": "575cea38b2067a71b4903a3ec7e31ffb",
-			"sha256": "6d5b3d61d5a0ab992950ad3172737ad6f1cbaa5fbb098d34246a7455cb88295b",
-			"size": 1425888725,
-			"version": "2.0",
-			"buildtype": "RELEASE",
-			"forum": "",
-			"gapps": "https://mindthegapps.com/download",
-			"firmware": "",
-			"modem": "",
-			"bootloader": "",
-			"recovery": "https://sourceforge.net/projects/yucellmustafa-builds/files/toco/alpha_2.x/recovery.img/download",
-			"paypal": "https://www.buymeacoffee.com/yucellmustafax",
-			"telegram": "https://t.me/xiaomiminote10lite",
-			"dt": "https://github.com/crdroidandroid/android_device_xiaomi_toco",
-			"common-dt": "https://github.com/crdroidandroid/android_device_xiaomi_sm6150-common/tree/14.0-toco",
-			"kernel": "https://github.com/crdroidandroid/android_kernel_xiaomi_sm6150/tree/14.0-toco"
-		}
-	]
+  "response": [
+    {
+        "maintainer": "yucellmustafa",
+        "oem": "Xiaomi",
+        "device": "toco",
+        "filename": "Matrixx-v10.3.0-Unofficial-toco-Vanilla-20240303.zip",
+        "download": "https://sourceforge.net/projects/yucellmustafa-builds/files/toco/matrixx_10.x/Matrixx-v10.3.0-Unofficial-toco-Vanilla-20240303.zip/download",
+        "timestamp": 1709441217,
+        "md5": "af1202a0bdbd08d89782f60da78214d0",
+        "size": 1448646841,
+        "version": "v10.3.0"
+    }
+  ]
 }
